@@ -1,0 +1,6 @@
+{
+  "Endpoint": "https://eus.codesigning.azure.net",
+  "CodeSigningAccountName": "<Artifact Signing account name>",
+  "CertificateProfileName": "<Certificate profile name>",
+  "CorrelationId": "local-nitto-release"
+}

@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nitto Engine Parts Admin</title>
+  <link rel="stylesheet" href="/admin/admin.css">
+  <link rel="stylesheet" href="/admin/engine-parts.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1>Engine Parts Tool</h1>
+      <p>Attach, edit, duplicate, and create performance parts per engine. Only parts attached to the selected engine are shown.</p>
+    </div>
+    <div class="actions">
+      <a class="buttonLink" href="/admin">Content Browser</a>
+      <button id="refreshBtn">Refresh</button>
+    </div>
+  </header>
+
+  <main class="engineTool">
+    <section class="engineHero">
+      <div class="enginePicker">
+        <label for="engineSelect">Selected Engine</label>
+        <select id="engineSelect"></select>
+      </div>
+      <div class="engineStats" id="engineStats"></div>
+    </section>
+
+    <section id="warnings" class="warnings"></section>
+
+    <section class="catalogToolbar">
+      <div class="searchBox">
+        <label for="searchInput">Search attached parts</label>
+        <input id="searchInput" placeholder="Name, brand, category, city...">
+      </div>
+      <button id="expandAllBtn">Expand All</button>
+      <button id="collapseAllBtn">Collapse All</button>
+      <label class="toggleLine"><input type="checkbox" id="hideEmptyToggle" checked> Hide empty categories</label>
+      <span id="statusText">Ready.</span>
+    </section>
+
+    <section id="categoryList" class="categoryList"></section>
+  </main>
+
+  <template id="categoryTemplate">
+    <article class="engineCategory open">
+      <header class="categoryHeader">
+        <button class="chevron" type="button">›</button>
+        <div class="categoryTitle"></div>
+        <span class="categoryMeta"></span>
+        <button class="addPartBtn" type="button">Add Part</button>
+      </header>
+      <div class="addPanel hidden">
+        <div class="addExisting">
+          <strong>Attach existing part</strong>
+          <input class="candidateSearch" placeholder="Search available parts in this category...">
+          <select class="candidateSelect"></select>
+          <button class="attachBtn" type="button">Attach Selected</button>
+        </div>
+        <div class="createNew">
+          <strong>Create new part for this engine</strong>
+          <div class="gridForm">
+            <input class="newName" placeholder="Part name">
+            <input class="newBrand" placeholder="Brand">
+            <input class="newModel" placeholder="Model">
+            <input class="newPrice" type="number" placeholder="Cash price">
+            <input class="newHp" type="number" placeholder="HP delta">
+            <input class="newTq" type="number" placeholder="TQ delta">
+            <input class="newWt" type="number" placeholder="Weight delta">
+            <select class="newCity"></select>
+          </div>
+          <label class="toggleLine"><input class="newOem" type="checkbox"> OEM placeholder</label>
+          <button class="createBtn" type="button">Create Part</button>
+        </div>
+      </div>
+      <div class="partsTableWrap">
+        <table class="partsTable">
+          <thead>
+            <tr>
+              <th>ID</th><th>Name</th><th>Brand</th><th>City</th><th>HP</th><th>TQ</th><th>WT</th><th>Grip</th><th>Cash</th><th>OEM</th><th>Enabled</th><th>Actions</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </article>
+  </template>
+
+  <script src="/admin/engine-parts.js"></script>
+</body>
+</html>

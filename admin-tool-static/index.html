@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nitto CMS Admin</title>
+  <link rel="stylesheet" href="/admin/admin.css">
+</head>
+<body>
+  <aside class="sidebar">
+    <div class="brand"><span class="logo">1320</span><div><strong>Legends CMS</strong><small>Local content builder</small></div></div>
+    <nav>
+      <a class="active" data-page="dashboard">Dashboard</a>
+      <a data-page="cars">Cars</a>
+      <a data-page="engines">Engines</a>
+      <a data-page="paints">OEM Paints</a>
+      <a data-page="parts">Parts</a>
+      <a data-page="forcedInduction">Forced Induction Studio</a>
+      <a data-page="promptStudio">AI Prompt Studio</a>
+      <a data-page="playerPortal">Player Portal</a>
+      <a data-page="oem">OEM Generator</a>
+      <a data-page="publish">Publish / Reset</a>
+    </nav>
+  </aside>
+  <main>
+    <header class="topbar">
+      <div><h1 id="pageTitle">Dashboard</h1><p id="pageSubtitle">Clean file-based content management for the local server.</p></div>
+      <div class="topActions"><button id="refreshBtn">Refresh</button><button class="primary" id="publishBtn">Publish</button></div>
+    </header>
+    <section id="status" class="status hidden"></section>
+    <section id="app"></section>
+  </main>
+
+  <dialog id="editorDialog">
+    <form method="dialog" class="dialogPanel">
+      <div class="dialogHead"><div><h2 id="dialogTitle">Editor</h2><p id="dialogHint"></p></div><button value="cancel" class="ghost">x</button></div>
+      <div id="dialogFields" class="formGrid"></div>
+      <footer><button value="cancel">Cancel</button><button id="saveDialogBtn" value="default" class="primary">Save</button></footer>
+    </form>
+  </dialog>
+  <script src="/admin/admin.js"></script>
+</body>
+</html>

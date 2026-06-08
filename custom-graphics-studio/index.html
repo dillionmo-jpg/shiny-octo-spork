@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Nitto Custom Graphics Studio</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="studio-shell">
+      <aside class="side-panel">
+        <div class="brand-block">
+          <div class="mark">NG</div>
+          <div>
+            <h1>Custom Graphics Studio</h1>
+            <p id="assetPath">cache/car/userDecals/160_1.swf</p>
+          </div>
+        </div>
+
+        <label class="field">
+          <span>Project</span>
+          <input id="projectNameInput" type="text" value="Custom graphic">
+        </label>
+
+        <div class="button-row">
+          <button id="saveProjectButton" type="button">Save JSON</button>
+          <button id="loadProjectButton" type="button">Load JSON</button>
+          <input id="projectInput" class="hidden-input" type="file" accept="application/json,.json">
+        </div>
+
+        <label class="field">
+          <span>Car</span>
+          <select id="carSelect"></select>
+        </label>
+
+        <div class="segmented" id="viewButtons" aria-label="Car view"></div>
+        <div class="segmented" id="panelButtons" aria-label="Graphic panel"></div>
+
+        <label class="field compact">
+          <span>Decal id</span>
+          <input id="decalIdInput" type="number" min="1" step="1" value="1">
+        </label>
+
+        <section class="tool-section">
+          <div class="section-title">Layers</div>
+          <div class="button-row three">
+            <button id="addImageLayerButton" type="button">Image</button>
+            <button id="addTextLayerButton" type="button">Text</button>
+            <button id="addShapeLayerButton" type="button">Shape</button>
+            <input id="layerImageInput" class="hidden-input" type="file" accept="image/png,image/jpeg,image/webp,image/gif">
+          </div>
+          <div id="layerList" class="layer-list"></div>
+        </section>
+
+        <section class="tool-section">
+          <div class="section-title">Templates</div>
+          <div class="inline-controls">
+            <select id="templateSelect"></select>
+            <button id="addTemplateButton" type="button">Add</button>
+          </div>
+        </section>
+
+        <section class="tool-section">
+          <div class="section-title">Layer Settings</div>
+          <label class="field">
+            <span>Name</span>
+            <input id="layerNameInput" type="text">
+          </label>
+          <label class="field" id="layerTextField">
+            <span>Text</span>
+            <input id="layerTextInput" type="text">
+          </label>
+
+          <div class="control-group-title">Position</div>
+          <div class="control-grid two slider-control-grid">
+            <label class="slider-field">
+              <span>X</span>
+              <div class="slider-pair">
+                <input id="offsetXRangeInput" type="range" min="-400" max="400" step="1" value="0">
+                <input id="offsetXInput" type="number" step="1" value="0">
+              </div>
+            </label>
+            <label class="slider-field">
+              <span>Y</span>
+              <div class="slider-pair">
+                <input id="offsetYRangeInput" type="range" min="-400" max="400" step="1" value="0">
+                <input id="offsetYInput" type="number" step="1" value="0">
+              </div>
+            </label>
+          </div>
+
+          <div class="control-group-title">Transform</div>
+          <div class="control-grid two slider-control-grid">
+            <label class="slider-field">
+              <span>Scale</span>
+              <div class="slider-pair">
+                <input id="scaleRangeInput" type="range" min="0.05" max="8" step="0.01" value="1">
+                <input id="scaleInput" type="number" min="0.05" max="8" step="0.01" value="1">
+              </div>
+            </label>
+            <label class="slider-field">
+              <span>Rotate</span>
+              <div class="slider-pair">
+                <input id="rotateRangeInput" type="range" min="-180" max="180" step="1" value="0">
+                <input id="rotateInput" type="number" min="-180" max="180" step="1" value="0">
+              </div>
+            </label>
+          </div>
+
+          <div class="control-group-title">Size / Opacity</div>
+          <div class="control-grid two slider-control-grid">
+            <label class="slider-field">
+              <span>Width</span>
+              <div class="slider-pair">
+                <input id="layerWidthRangeInput" type="range" min="1" max="800" step="1" value="120">
+                <input id="layerWidthInput" type="number" min="1" step="1" value="120">
+              </div>
+            </label>
+            <label class="slider-field">
+              <span>Height</span>
+              <div class="slider-pair">
+                <input id="layerHeightRangeInput" type="range" min="1" max="800" step="1" value="40">
+                <input id="layerHeightInput" type="number" min="1" step="1" value="40">
+              </div>
+            </label>
+            <label class="slider-field">
+              <span>Opacity</span>
+              <div class="slider-pair">
+                <input id="opacityRangeInput" type="range" min="0" max="1" step="0.01" value="1">
+                <input id="opacityInput" type="number" min="0" max="1" step="0.01" value="1">
+              </div>
+            </label>
+            <label>
+              <span>Blend</span>
+              <select id="blendModeInput">
+                <option value="source-over">Normal</option>
+                <option value="multiply">Multiply</option>
+                <option value="screen">Screen</option>
+                <option value="overlay">Overlay</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="color-row">
+            <label>
+              <span>Fill</span>
+              <input id="fillInput" type="color" value="#e3422f">
+            </label>
+            <label>
+              <span>Accent</span>
+              <input id="secondaryFillInput" type="color" value="#f6b73c">
+            </label>
+          </div>
+
+          <div class="button-row three">
+            <button id="fitButton" type="button">Fit</button>
+            <button id="centerButton" type="button">Center</button>
+            <button id="resetScaleButton" type="button">Reset Scale</button>
+          </div>
+          <div class="button-row three">
+            <button id="resetRotationButton" type="button">Reset Rotation</button>
+            <button id="fullOpacityButton" type="button">Full Opacity</button>
+            <button id="duplicateLayerButton" type="button">Duplicate</button>
+          </div>
+          <div class="button-row three">
+            <button id="moveLayerUpButton" type="button">Move Up</button>
+            <button id="moveLayerDownButton" type="button">Move Down</button>
+            <button id="deleteLayerButton" type="button">Delete</button>
+          </div>
+        </section>
+
+        <section class="tool-section">
+          <div class="section-title">Export</div>
+          <div class="button-row">
+            <button id="pickCacheFolderButton" type="button">Pick userDecals</button>
+            <button id="saveCacheButton" type="button" class="primary">Save To Cache</button>
+          </div>
+          <div class="button-row three">
+            <button id="exportPngButton" type="button">PNG</button>
+            <button id="exportSwfButton" type="button">SWF</button>
+            <button id="exportAllButton" type="button">All Panels</button>
+          </div>
+        </section>
+      </aside>
+
+      <section class="workspace">
+        <header class="toolbar">
+          <div>
+            <strong id="selectedCarLabel">Car</strong>
+            <span id="selectedPanelLabel">Panel</span>
+          </div>
+          <div class="toolbar-controls">
+            <label><input id="gridToggle" type="checkbox" checked> Grid</label>
+            <label><input id="backdropToggle" type="checkbox" checked> Car body</label>
+            <label class="zoom-control">Zoom <input id="zoomInput" type="range" min="0.5" max="2.5" step="0.05" value="1"></label>
+            <button id="backdropButton" type="button">Load Backdrop</button>
+            <input id="backdropInput" class="hidden-input" type="file" accept="image/png,image/jpeg,image/webp">
+          </div>
+          <div id="statusText">Ready</div>
+        </header>
+
+        <div class="canvas-layout">
+          <section class="canvas-column source-column">
+            <div class="canvas-title">
+              <span>Source Canvas</span>
+              <span id="sourceSizeLabel">200 x 200</span>
+            </div>
+            <div class="canvas-frame" id="sourceFrame">
+              <canvas id="sourceCanvas"></canvas>
+            </div>
+          </section>
+
+          <section class="canvas-column preview-column">
+            <div class="canvas-title">
+              <span>Car Preview</span>
+              <span id="gridStatsLabel">0 points</span>
+            </div>
+            <div class="canvas-frame" id="previewFrame">
+              <canvas id="previewCanvas"></canvas>
+            </div>
+          </section>
+        </div>
+
+        <section class="bottom-panel">
+          <div class="compat-header">
+            <div>
+              <strong>Compatibility</strong>
+              <span id="compatSummary">0 cars checked</span>
+            </div>
+            <div class="inline-controls">
+              <select id="compareCarSelect"></select>
+              <button id="addCompareCarButton" type="button">Add Compare</button>
+            </div>
+          </div>
+          <div id="compareGrid" class="compare-grid"></div>
+        </section>
+      </section>
+    </main>
+
+    <script type="module" src="./studio.js"></script>
+  </body>
+</html>
