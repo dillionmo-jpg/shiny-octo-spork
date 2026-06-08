@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "tournaments": [
+    {
+      "id": 1,
+      "name": "Local Test Tournament",
+      "status": "qualifying",
+      "bracketSize": 32,
+      "entryFee": 0,
+      "prizeMoney": 50000,
+      "prizePoints": 0,
+      "trackLength": 1320,
+      "startsAt": "2026-05-13T07:28:21.427Z",
+      "entrants": [
+        {
+          "accountId": 1,
+          "username": "Oblong",
+          "accountCarId": 1,
+          "joinedAt": "2026-05-13T07:23:23.524Z"
+        }
+      ],
+      "qualifyingResults": [],
+      "readyAccountIds": [
+        1
+      ],
+      "updatedAt": "2026-05-13T07:23:26.185Z"
+    }
+  ]
+}

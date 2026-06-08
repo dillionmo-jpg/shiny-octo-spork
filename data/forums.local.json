@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "nextThreadId": 2,
+  "nextPostId": 3,
+  "boards": [
+    {
+      "slug": "official-beta-news",
+      "title": "Official Beta News",
+      "description": "Patch notes, server notices, and community remake announcements.",
+      "locked": false
+    },
+    {
+      "slug": "racing-central",
+      "title": "Racing Central",
+      "description": "Lineups, callouts, tuning talk, and race room chatter.",
+      "locked": false
+    },
+    {
+      "slug": "support-garage",
+      "title": "Support Garage",
+      "description": "Install help, account questions, and client troubleshooting.",
+      "locked": false
+    }
+  ],
+  "threads": [
+    {
+      "id": "1",
+      "boardSlug": "official-beta-news",
+      "title": "Smoke Forum",
+      "author": "SmokeForum",
+      "createdAt": "2026-06-01T14:14:40.645Z",
+      "pinned": false,
+      "views": 0,
+      "posts": [
+        {
+          "id": "1",
+          "author": "SmokeForum",
+          "body": "Forum API smoke.",
+          "createdAt": "2026-06-01T14:14:40.645Z"
+        },
+        {
+          "id": "2",
+          "author": "SmokeForum",
+          "body": "Reply smoke.",
+          "createdAt": "2026-06-01T14:14:40.774Z"
+        }
+      ]
+    }
+  ]
+}

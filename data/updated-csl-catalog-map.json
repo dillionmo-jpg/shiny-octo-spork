@@ -1,0 +1,748 @@
+{
+  "version": 1,
+  "source": "UpdatedCSL..txt v1.2",
+  "entries": [
+    {
+      "cslName": "1997 Acura Integra",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 1,
+      "catalogName": "Acura Integra GSR"
+    },
+    {
+      "cslName": "1972 Chevrolet C-10",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 82,
+      "catalogName": "Chevy C-10"
+    },
+    {
+      "cslName": "2009 Chevrolet Cobalt",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 52,
+      "catalogName": "Chevy Cobalt SS"
+    },
+    {
+      "cslName": "2000 Chevrolet S-10",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 83,
+      "catalogName": "Chevy S-10"
+    },
+    {
+      "cslName": "2004 Dodge SRT-4",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 15,
+      "catalogName": "Dodge Neon SRT-4"
+    },
+    {
+      "cslName": "1932 Ford Deuce Coupe",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 144,
+      "catalogName": "Ford Deuce Coupe"
+    },
+    {
+      "cslName": "2007 Ford Mustang",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 3,
+      "catalogName": "Ford Mustang GT"
+    },
+    {
+      "cslName": "1986 Ford RS200",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 141,
+      "catalogName": "Ford RS200"
+    },
+    {
+      "cslName": "1992 Honda Civic",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 31,
+      "catalogName": "Honda Civic Si"
+    },
+    {
+      "cslName": "2000 Honda Civic Coupe",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 76,
+      "catalogName": "Honda Civic Si"
+    },
+    {
+      "cslName": "1991 Honda CR-X",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 74,
+      "catalogName": "Honda CR-X Si"
+    },
+    {
+      "cslName": "2008 Honda Civic",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 76,
+      "catalogName": "Honda Civic Si"
+    },
+    {
+      "cslName": "1992 Mazda MX-5 Miata",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 107,
+      "catalogName": "Mazda MX-5 Miata"
+    },
+    {
+      "cslName": "1975 Mazda RX-3",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 73,
+      "catalogName": "Mazda RX-3"
+    },
+    {
+      "cslName": "2008 Mazda Mazdaspeed 3",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 23,
+      "catalogName": "Mazdaspeed 3"
+    },
+    {
+      "cslName": "1998 Mitsubishi Eclipse",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 88,
+      "catalogName": "Mitsubishi Eclipse GSX"
+    },
+    {
+      "cslName": "2008 Nissan Sentra",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 47,
+      "catalogName": "Nissan Sentra SE-R"
+    },
+    {
+      "cslName": "2011 Nissan Cube",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 106,
+      "catalogName": "Nissan Cube"
+    },
+    {
+      "cslName": "1969 Pontiac GTO",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 43,
+      "catalogName": "Pontiac GTO"
+    },
+    {
+      "cslName": "2005 Scion tC",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 13,
+      "catalogName": "Scion tC"
+    },
+    {
+      "cslName": "2007 Scion xB",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 22,
+      "catalogName": "Scion xB"
+    },
+    {
+      "cslName": "1970 Toyota Celica GT 2000",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 145,
+      "catalogName": "Toyota Celica GT 2000"
+    },
+    {
+      "cslName": "1981 Toyota Starlet",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 122,
+      "catalogName": "Toyota Starlet"
+    },
+    {
+      "cslName": "2000 Toyota MR2",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 115,
+      "catalogName": "Toyota MR2 Spyder"
+    },
+    {
+      "cslName": "1967 Volkswagen Beetle",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 62,
+      "catalogName": "VW Beetle"
+    },
+    {
+      "cslName": "1996 Volkswagen Corrado",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 77,
+      "catalogName": "VW Corrado"
+    },
+    {
+      "cslName": "1997 Box",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 121,
+      "catalogName": "Box"
+    },
+    {
+      "cslName": "1985 Top Fool Dragster",
+      "locationId": 100,
+      "locationName": "Toreno",
+      "catalogCarId": 159,
+      "catalogName": "Top Fool Dragster"
+    },
+    {
+      "cslName": "2005 Acura RSX Type-S",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 6,
+      "catalogName": "Acura RSX Type-S"
+    },
+    {
+      "cslName": "1970 AMC Javelin",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 117,
+      "catalogName": "AMC Javelin"
+    },
+    {
+      "cslName": "1992 Chevrolet Camaro Z28",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 46,
+      "catalogName": "Chevy Camaro SS"
+    },
+    {
+      "cslName": "1969 Chevrolet Camaro",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 18,
+      "catalogName": "Chevy Camaro"
+    },
+    {
+      "cslName": "2000 Chevrolet Camaro SS",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 46,
+      "catalogName": "Chevy Camaro SS"
+    },
+    {
+      "cslName": "1996 Chevrolet Impala",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 100,
+      "catalogName": "Chevy Impala SS"
+    },
+    {
+      "cslName": "2001 Ford F-150 SVT Lightning",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 78,
+      "catalogName": "Ford F-150 SVT Lightning"
+    },
+    {
+      "cslName": "2010 Ford Mustang",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 54,
+      "catalogName": "Ford Mustang GT 2010"
+    },
+    {
+      "cslName": "1971 Falcon GT",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 143,
+      "catalogName": "Ford Falcon GT"
+    },
+    {
+      "cslName": "2014 Ford Fiesta RS",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 138,
+      "catalogName": "Ford Fiesta ST"
+    },
+    {
+      "cslName": "2000 Honda Civic Type R",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 105,
+      "catalogName": "Honda Civic Type R"
+    },
+    {
+      "cslName": "1996 Honda Prelude",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 44,
+      "catalogName": "Honda Prelude DOHC VTEC"
+    },
+    {
+      "cslName": "2012 Hyundai Genesis Coupe",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 128,
+      "catalogName": "Hyundai Genesis Coupe"
+    },
+    {
+      "cslName": "2004 Infiniti G35",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 4,
+      "catalogName": "Infiniti G35 Coupe"
+    },
+    {
+      "cslName": "2008 Infiniti G37",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 51,
+      "catalogName": "Infiniti G37S"
+    },
+    {
+      "cslName": "1993 Mazda Rx-7",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 16,
+      "catalogName": "Mazda RX-7"
+    },
+    {
+      "cslName": "2010 Mazda Mazdaspeed 3",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 142,
+      "catalogName": "Mazdaspeed 3"
+    },
+    {
+      "cslName": "2004 Mitsubishi Lancer Evolution VIII",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 2,
+      "catalogName": "Mitsubishi Lancer Evo VIII"
+    },
+    {
+      "cslName": "1998 Nissan 240SX",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 41,
+      "catalogName": "Nissan 240SX"
+    },
+    {
+      "cslName": "1993 Nissan 240SX",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 53,
+      "catalogName": "Nissan 240SX"
+    },
+    {
+      "cslName": "2009 Pontiac Solstice",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 33,
+      "catalogName": "Pontiac Solstice GXP"
+    },
+    {
+      "cslName": "2011 Scion tC",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 95,
+      "catalogName": "Scion tC"
+    },
+    {
+      "cslName": "2005 Subaru Impreza WRX STi",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 89,
+      "catalogName": "Subaru Impreza WRX STI"
+    },
+    {
+      "cslName": "2007 Subaru Impreza WRX STi",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 92,
+      "catalogName": "Subaru Impreza WRX STI"
+    },
+    {
+      "cslName": "2011 Subaru Impreza WRX STi",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 91,
+      "catalogName": "Subaru Impreza WRX STI"
+    },
+    {
+      "cslName": "2002 Toyota Celica",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 65,
+      "catalogName": "Toyota Celica GT-S"
+    },
+    {
+      "cslName": "1985 Toyota Corolla",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 99,
+      "catalogName": "Toyota Corolla GT-S"
+    },
+    {
+      "cslName": "2000 Toyota MR2 Widebody",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 114,
+      "catalogName": "Toyota MR2 Spyder Widebody"
+    },
+    {
+      "cslName": "1992 Volkswagen Golf GTI",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 67,
+      "catalogName": "VW Golf GTI"
+    },
+    {
+      "cslName": "2006 Volkswagen Jetta GLI",
+      "locationId": 200,
+      "locationName": "Newburge",
+      "catalogCarId": 84,
+      "catalogName": "VW Jetta GLI"
+    },
+    {
+      "cslName": "2002 Acura NSX",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 28,
+      "catalogName": "Acura NSX"
+    },
+    {
+      "cslName": "2007 Chevrolet Corvette",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 7,
+      "catalogName": "Chevy Corvette C6"
+    },
+    {
+      "cslName": "2009 Chevrolet Corvette Z06",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 34,
+      "catalogName": "Chevy Corvette Z06"
+    },
+    {
+      "cslName": "1987 Buick GNX",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 72,
+      "catalogName": "Buick Grand National"
+    },
+    {
+      "cslName": "1970 Dodge Challenger",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 63,
+      "catalogName": "Dodge Challenger R/T"
+    },
+    {
+      "cslName": "2009 Dodge Challenger",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 59,
+      "catalogName": "Dodge Challenger SRT-8"
+    },
+    {
+      "cslName": "1976 Ford Gran Torino",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 131,
+      "catalogName": "Ford Grand Torino"
+    },
+    {
+      "cslName": "1993 Ford Mustang",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": null,
+      "catalogName": null
+    },
+    {
+      "cslName": "2011 Ford Mustang",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": null,
+      "catalogName": null
+    },
+    {
+      "cslName": "1970 Ford Mustang Boss 429",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 32,
+      "catalogName": "Ford Mustang Boss 302"
+    },
+    {
+      "cslName": "1993 Ford Mustang SVT Cobra R",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 45,
+      "catalogName": "Ford SVT Cobra R"
+    },
+    {
+      "cslName": "1997 Honda Integra Type R",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 8,
+      "catalogName": "Honda Integra Type R"
+    },
+    {
+      "cslName": "2007 Honda S2000",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 9,
+      "catalogName": "Honda S2000"
+    },
+    {
+      "cslName": "1998 Nissan 300ZX",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 35,
+      "catalogName": "Nissan 300ZX"
+    },
+    {
+      "cslName": "2005 Nissan 350Z",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 25,
+      "catalogName": "Nissan 350Z"
+    },
+    {
+      "cslName": "2009 Nissan 370Z",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 55,
+      "catalogName": "Nissan 370Z"
+    },
+    {
+      "cslName": "2011 Mitsubishi Lancer Evolution X",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 87,
+      "catalogName": "Mitsubishi Lancer Evo X"
+    },
+    {
+      "cslName": "1970 Plymouth 'Cuda",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 79,
+      "catalogName": "Plymouth 'Cuda"
+    },
+    {
+      "cslName": "1970 Plymouth Road Runner Superbird",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 80,
+      "catalogName": "Plymouth Road Runner"
+    },
+    {
+      "cslName": "1972 Pontiac Firebird Trans Am",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 85,
+      "catalogName": "Pontiac Firebird Trans Am"
+    },
+    {
+      "cslName": "1998 Pontiac Firebird Trans Am",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 49,
+      "catalogName": "Pontiac Trans Am"
+    },
+    {
+      "cslName": "2005 Pontiac GTO",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 50,
+      "catalogName": "Pontiac GTO"
+    },
+    {
+      "cslName": "1964 Pontiac Tempest Le Mans GTO",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 50,
+      "catalogName": "Pontiac GTO"
+    },
+    {
+      "cslName": "1996 Toyota Supra",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 14,
+      "catalogName": "Toyota Supra"
+    },
+    {
+      "cslName": "2010 Volkswagen Golf GTI",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 64,
+      "catalogName": "VW Golf GTI"
+    },
+    {
+      "cslName": "2004 Volkswagen Golf R32",
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "catalogCarId": 58,
+      "catalogName": "VW Golf R32"
+    },
+    {
+      "cslName": "2010 Dodge Challenger",
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "catalogCarId": 104,
+      "catalogName": "SEMA Challenger"
+    },
+    {
+      "cslName": "1970 Dodge Charger",
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "catalogCarId": 75,
+      "catalogName": "Dodge Charger R/T"
+    },
+    {
+      "cslName": "2006 Ford GT",
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "catalogCarId": 5,
+      "catalogName": "Ford GT"
+    },
+    {
+      "cslName": "2011 Ford Shelby GT500",
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "catalogCarId": 68,
+      "catalogName": "Ford Shelby GT500"
+    },
+    {
+      "cslName": "1995 Nissan Skyline GT-R",
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "catalogCarId": 125,
+      "catalogName": "Nissan Skyline GT-R"
+    },
+    {
+      "cslName": "2002 Nissan Skyline GT-R",
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "catalogCarId": 38,
+      "catalogName": "Nissan Skyline GT-R"
+    },
+    {
+      "cslName": "RX-7 Dragster",
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "catalogCarId": 17,
+      "catalogName": "Mazda RX-7 Drag Spec"
+    },
+    {
+      "cslName": "Bergenholtz Mazda 6",
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "catalogCarId": 19,
+      "catalogName": "Mazdaspeed 6 Bergenholtz"
+    },
+    {
+      "cslName": "NSX Race Edition",
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "catalogCarId": 29,
+      "catalogName": "Acura NSX Race Edition"
+    },
+    {
+      "cslName": "WD-40 Camaro",
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "catalogCarId": 39,
+      "catalogName": "SEMA Series Camaro"
+    },
+    {
+      "cslName": "WD-40 Mustang GT",
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "catalogCarId": 69,
+      "catalogName": "SEMA Ford Mustang"
+    },
+    {
+      "cslName": "Camaro Dragster",
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "catalogCarId": 86,
+      "catalogName": "Drag Spec Camaro"
+    },
+    {
+      "cslName": "Hellion Mustang",
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "catalogCarId": 94,
+      "catalogName": "Hellion Mustang"
+    },
+    {
+      "cslName": "WD-40 Challenger SRT8",
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "catalogCarId": 104,
+      "catalogName": "SEMA Challenger"
+    },
+    {
+      "cslName": "Bergenholtz RX-8",
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "catalogCarId": 120,
+      "catalogName": "Bergenholtz Mazda RX-8"
+    },
+    {
+      "cslName": "2010 Chevrolet Corvette ZR1",
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "catalogCarId": 42,
+      "catalogName": "Royal Purple ZR1"
+    },
+    {
+      "cslName": "2006 Dodge Viper",
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "catalogCarId": 10,
+      "catalogName": "Dodge Viper"
+    },
+    {
+      "cslName": "2012 Dodge Viper ACR-X",
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "catalogCarId": 109,
+      "catalogName": "Dodge Viper ACR-X"
+    },
+    {
+      "cslName": "Beast",
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "catalogCarId": 126,
+      "catalogName": "Ford Mustang Beast"
+    },
+    {
+      "cslName": "2011 Nissan Skyline GT-R",
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "catalogCarId": 21,
+      "catalogName": "Nissan GT-R"
+    },
+    {
+      "cslName": "2012 Scion FR-S Concept",
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "catalogCarId": 113,
+      "catalogName": "Scion FR-S"
+    },
+    {
+      "cslName": "SignalR",
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "catalogCarId": 153,
+      "catalogName": "SignalR Concept"
+    }
+  ]
+}

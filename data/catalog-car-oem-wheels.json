@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "sources": [
+    "UpdatedCSL..txt v1.2",
+    "Wheels updated.txt v1.1"
+  ],
+  "lockedDesignFallbacks": {
+    "30": 21,
+    "32": 8,
+    "37": 73,
+    "41": 33,
+    "62": 110,
+    "84": 65,
+    "146": 147,
+    "148": 147,
+    "149": 147,
+    "150": 147
+  },
+  "overrides": {
+    "11": {
+      "designId": 10,
+      "size": 18,
+      "note": "STI Drag-Spec / Drifz 505B NOS"
+    },
+    "17": {
+      "designId": 21,
+      "size": 20,
+      "note": "RX-7 Drag Spec / HRE560 Black-Red"
+    },
+    "19": {
+      "designId": 23,
+      "size": 17,
+      "note": "Bergenholtz Mazda 6 / Team Dynamics Jade-R"
+    },
+    "20": {
+      "designId": 8,
+      "size": 18,
+      "note": "NOS Endurance tC / HRE 547R"
+    },
+    "21": {
+      "designId": 33,
+      "size": 20,
+      "note": "Nissan GT-R R35 OEM"
+    },
+    "26": {
+      "designId": 25,
+      "size": 19,
+      "note": "Royal Purple 350Z / ICW 204MB"
+    },
+    "57": {
+      "designId": 53,
+      "size": 16,
+      "note": "Mazda Furai OEM"
+    },
+    "69": {
+      "designId": 65,
+      "size": 20,
+      "note": "SEMA Ford Mustang / TE37 Black"
+    },
+    "73": {
+      "designId": 67,
+      "size": 15,
+      "note": "Mazda RX-3 stock"
+    },
+    "74": {
+      "designId": 68,
+      "size": 15,
+      "note": "Honda CR-X OEM"
+    },
+    "79": {
+      "designId": 73,
+      "size": 15,
+      "note": "Plymouth Cuda OEM"
+    },
+    "80": {
+      "designId": 73,
+      "size": 15,
+      "note": "Plymouth Road Runner / Cuda OEM"
+    },
+    "87": {
+      "designId": 94,
+      "size": 18,
+      "note": "Mitsubishi Lancer Evolution X OEM"
+    },
+    "94": {
+      "designId": 65,
+      "size": 20,
+      "note": "Hellion Mustang / TE37 Black"
+    },
+    "101": {
+      "designId": 113,
+      "size": 20,
+      "note": "SLR McLaren Black Edition"
+    },
+    "120": {
+      "designId": 23,
+      "size": 18,
+      "note": "Bergenholtz RX-8 / Team Dynamics Jade-R"
+    },
+    "122": {
+      "designId": 1,
+      "size": 15,
+      "note": "Toyota Starlet / closest valid size"
+    },
+    "123": {
+      "designId": 113,
+      "size": 19,
+      "note": "SLR McLaren Black Edition"
+    },
+    "126": {
+      "designId": 128,
+      "size": 20,
+      "note": "Ford Mustang Beast / UpdatedCSL Diamond Point"
+    },
+    "134": {
+      "designId": 73,
+      "size": 15,
+      "note": "Plymouth Cuda OEM"
+    },
+    "144": {
+      "designId": 147,
+      "size": 15,
+      "note": "Ford Deuce Coupe stock (146 asset is tourney gold/black)"
+    },
+    "146": {
+      "designId": 147,
+      "size": 15,
+      "note": "Deuce Gold stock"
+    },
+    "147": {
+      "designId": 147,
+      "size": 15,
+      "note": "Deuce Champion stock"
+    },
+    "149": {
+      "designId": 154,
+      "size": 20,
+      "note": "Ford Taurus SHO OEM"
+    },
+    "153": {
+      "designId": 152,
+      "size": 19,
+      "note": "SignalR Concept OEM"
+    }
+  }
+}

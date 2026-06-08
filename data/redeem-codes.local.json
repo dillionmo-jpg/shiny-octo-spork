@@ -1,0 +1,71 @@
+[
+  {
+    "codeName": "WELCOME1320",
+    "rewardPackage": {
+      "cash": 10000,
+      "points": 250,
+      "vehicleIds": [],
+      "wheelIds": [],
+      "badgeIds": [],
+      "titles": [],
+      "cosmeticItems": [],
+      "membershipTimeDays": 0,
+      "specialUnlocks": []
+    },
+    "enabled": true,
+    "expirationDate": null,
+    "maximumUses": -1,
+    "currentUsageCount": 0,
+    "perAccountLimit": 1,
+    "accountAgeRequirementDays": 0,
+    "createdBy": "Administrator",
+    "dateCreated": "2026-06-04T00:00:00.000Z",
+    "notes": "Starter code for new players"
+  },
+  {
+    "codeName": "SUMMER2026",
+    "rewardPackage": {
+      "cash": 0,
+      "points": 0,
+      "vehicleIds": [],
+      "wheelIds": [],
+      "badgeIds": [],
+      "titles": [],
+      "cosmeticItems": ["Exclusive Summer Skin"],
+      "membershipTimeDays": 0,
+      "specialUnlocks": []
+    },
+    "enabled": true,
+    "expirationDate": "2026-07-01T23:59:59.000Z",
+    "maximumUses": -1,
+    "currentUsageCount": 0,
+    "perAccountLimit": 1,
+    "accountAgeRequirementDays": 0,
+    "createdBy": "Administrator",
+    "dateCreated": "2026-06-04T00:00:00.000Z",
+    "notes": "Seasonal event reward"
+  },
+  {
+    "codeName": "FOUNDER50",
+    "rewardPackage": {
+      "cash": 50000,
+      "points": 500,
+      "vehicleIds": [],
+      "wheelIds": [],
+      "badgeIds": [177],
+      "titles": ["Early Supporter"],
+      "cosmeticItems": [],
+      "membershipTimeDays": 0,
+      "specialUnlocks": []
+    },
+    "enabled": true,
+    "expirationDate": null,
+    "maximumUses": 50,
+    "currentUsageCount": 4,
+    "perAccountLimit": 1,
+    "accountAgeRequirementDays": 0,
+    "createdBy": "Administrator",
+    "dateCreated": "2026-06-04T00:00:00.000Z",
+    "notes": "Limited code for first 50 founders"
+  }
+]

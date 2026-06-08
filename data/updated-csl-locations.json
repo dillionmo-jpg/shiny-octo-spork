@@ -1,0 +1,794 @@
+{
+  "version": 2,
+  "source": "UpdatedCSL..txt v1.2 + neighborhood sync",
+  "locations": {
+    "1": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "1997 Acura Integra"
+    },
+    "2": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2004 Mitsubishi Lancer Evolution VIII"
+    },
+    "3": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "2007 Ford Mustang"
+    },
+    "4": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2004 Infiniti G35"
+    },
+    "5": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "2006 Ford GT"
+    },
+    "6": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2005 Acura RSX Type-S"
+    },
+    "7": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "2007 Chevrolet Corvette"
+    },
+    "8": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "1997 Honda Integra Type R"
+    },
+    "9": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "2007 Honda S2000"
+    },
+    "10": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "2006 Dodge Viper"
+    },
+    "11": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "STI Drag-Spec",
+      "source": "sibling STI Newburge"
+    },
+    "13": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "2005 Scion tC"
+    },
+    "14": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "1996 Toyota Supra"
+    },
+    "15": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "2004 Dodge SRT-4"
+    },
+    "16": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "1993 Mazda Rx-7"
+    },
+    "17": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "RX-7 Dragster"
+    },
+    "18": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "1969 Chevrolet Camaro"
+    },
+    "19": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "Bergenholtz Mazda 6"
+    },
+    "20": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "NOS Endurance tC",
+      "source": "Scion tC Toreno"
+    },
+    "21": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "2011 Nissan Skyline GT-R"
+    },
+    "22": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "2007 Scion xB"
+    },
+    "23": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "2008 Mazda Mazdaspeed 3"
+    },
+    "24": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "Mazda RX-8",
+      "source": "seed"
+    },
+    "25": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "2005 Nissan 350Z"
+    },
+    "26": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "Royal Purple Nissan Z",
+      "source": "premium Nissan"
+    },
+    "28": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "2002 Acura NSX"
+    },
+    "29": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "NSX Race Edition"
+    },
+    "30": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "Scion tC TRD Challenge",
+      "source": "Scion tC Toreno"
+    },
+    "31": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "1992 Honda Civic"
+    },
+    "32": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "1970 Ford Mustang Boss 429"
+    },
+    "33": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2009 Pontiac Solstice"
+    },
+    "34": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "2009 Chevrolet Corvette Z06"
+    },
+    "35": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "1998 Nissan 300ZX"
+    },
+    "36": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "Chevy Corvette Z06",
+      "source": "match catalog car 34"
+    },
+    "37": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "Honda Civic Si",
+      "source": "seed"
+    },
+    "38": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "2002 Nissan Skyline GT-R"
+    },
+    "39": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "WD-40 Camaro"
+    },
+    "40": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "Tire Buyer Nissan GT-R",
+      "source": "match GT-R Diamond Point"
+    },
+    "41": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "1998 Nissan 240SX"
+    },
+    "42": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "2010 Chevrolet Corvette ZR1"
+    },
+    "43": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "1969 Pontiac GTO"
+    },
+    "44": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "1996 Honda Prelude"
+    },
+    "45": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "1993 Ford Mustang SVT Cobra R"
+    },
+    "46": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2000 Chevrolet Camaro SS"
+    },
+    "47": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "2008 Nissan Sentra"
+    },
+    "48": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "Chevy Camaro SS",
+      "source": "match catalog car 46"
+    },
+    "49": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "1998 Pontiac Firebird Trans Am"
+    },
+    "50": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "1964 Pontiac Tempest Le Mans GTO"
+    },
+    "51": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2008 Infiniti G37"
+    },
+    "52": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "2009 Chevrolet Cobalt"
+    },
+    "53": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "1993 Nissan 240SX"
+    },
+    "54": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2010 Ford Mustang"
+    },
+    "55": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "2009 Nissan 370Z"
+    },
+    "56": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "Pontiac GTO Judge",
+      "source": "price tier Vista Heights"
+    },
+    "57": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "Mazda Furai",
+      "source": "seed"
+    },
+    "58": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "2004 Volkswagen Golf R32"
+    },
+    "59": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "2009 Dodge Challenger"
+    },
+    "60": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "Dodge Charger SRT-8",
+      "source": "keep Creek Side"
+    },
+    "61": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "Toyota MR2",
+      "source": "match MR2 Spyder 115"
+    },
+    "62": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "1967 Volkswagen Beetle"
+    },
+    "63": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "1970 Dodge Challenger"
+    },
+    "64": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "2010 Volkswagen Golf GTI"
+    },
+    "65": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2002 Toyota Celica"
+    },
+    "66": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "Supercharged ZR1",
+      "source": "match ZR1 42"
+    },
+    "67": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "1992 Volkswagen Golf GTI"
+    },
+    "68": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "2011 Ford Shelby GT500"
+    },
+    "69": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "WD-40 Mustang GT"
+    },
+    "70": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "IvD Battle Challenger",
+      "source": "Challenger Creek Side"
+    },
+    "71": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "IvD Battle 240SX",
+      "source": "240SX Creek Side"
+    },
+    "72": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "1987 Buick GNX"
+    },
+    "73": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "1975 Mazda RX-3"
+    },
+    "74": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "1991 Honda CR-X"
+    },
+    "75": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "1970 Dodge Charger"
+    },
+    "76": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "2008 Honda Civic"
+    },
+    "77": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "1996 Volkswagen Corrado"
+    },
+    "78": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2001 Ford F-150 SVT Lightning"
+    },
+    "79": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "1970 Plymouth 'Cuda"
+    },
+    "80": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "1970 Plymouth Road Runner Superbird"
+    },
+    "81": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "Dodge Ram SRT-10",
+      "source": "price tier Creek Side"
+    },
+    "82": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "1972 Chevrolet C-10"
+    },
+    "83": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "2000 Chevrolet S-10"
+    },
+    "84": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2006 Volkswagen Jetta GLI"
+    },
+    "85": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "1972 Pontiac Firebird Trans Am"
+    },
+    "86": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "Camaro Dragster"
+    },
+    "87": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "2011 Mitsubishi Lancer Evolution X"
+    },
+    "88": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "1998 Mitsubishi Eclipse"
+    },
+    "89": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2005 Subaru Impreza WRX STi"
+    },
+    "90": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "McLaren MP4-12C",
+      "source": "OEM McLaren"
+    },
+    "91": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2011 Subaru Impreza WRX STi"
+    },
+    "92": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2007 Subaru Impreza WRX STi"
+    },
+    "94": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "Hellion Mustang"
+    },
+    "95": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2011 Scion tC"
+    },
+    "97": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "Dodge Charger SRT-8",
+      "source": "match Charger 60"
+    },
+    "98": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "McLaren MP4-12C VTW",
+      "source": "Diamond Point premium"
+    },
+    "99": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "1985 Toyota Corolla"
+    },
+    "100": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "1996 Chevrolet Impala"
+    },
+    "101": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "SLR McLaren LE I",
+      "source": "SLR Creek Side"
+    },
+    "102": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "SLR McLaren LE II",
+      "source": "SLR Vista Heights"
+    },
+    "104": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "WD-40 Challenger SRT8"
+    },
+    "105": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2000 Honda Civic Type R"
+    },
+    "106": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "2011 Nissan Cube"
+    },
+    "107": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "1992 Mazda MX-5 Miata"
+    },
+    "109": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "2012 Dodge Viper ACR-X"
+    },
+    "110": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "SLR McLaren Speed Greetings",
+      "source": "SLR Creek Side"
+    },
+    "111": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "STI Year of the Dragon",
+      "source": "STI Newburge"
+    },
+    "112": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "STI Year of the Dragon II",
+      "source": "STI Newburge"
+    },
+    "113": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "2012 Scion FR-S Concept"
+    },
+    "114": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2000 Toyota MR2 Widebody"
+    },
+    "115": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "2000 Toyota MR2"
+    },
+    "116": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "Challenger 1320",
+      "source": "Deuce/Toreno trophy group"
+    },
+    "117": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "1970 AMC Javelin"
+    },
+    "118": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "SLR 722 GT",
+      "source": "SLR Creek Side"
+    },
+    "119": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "Scion FR-S Widebody IvsD2",
+      "source": "FR-S Newburge"
+    },
+    "120": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "Bergenholtz RX-8"
+    },
+    "121": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "1997 Box"
+    },
+    "122": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "1981 Toyota Starlet"
+    },
+    "123": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "McLaren F1 GTR",
+      "source": "Diamond Point"
+    },
+    "124": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "Dodge Viper SRT-10",
+      "source": "match Viper 10"
+    },
+    "125": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "1995 Nissan Skyline GT-R"
+    },
+    "126": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "Beast"
+    },
+    "127": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "Ford Focus RS",
+      "source": "price tier Newburge"
+    },
+    "128": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2012 Hyundai Genesis Coupe"
+    },
+    "129": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "Ram SRT-10",
+      "source": "match Charger R/T Vista Heights"
+    },
+    "131": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "1976 Ford Gran Torino"
+    },
+    "133": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "Scion FR-S Widebody",
+      "source": "Diamond Point trophy"
+    },
+    "134": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "Plymouth Cuda",
+      "source": "match Cuda 79"
+    },
+    "135": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "Pontiac GTO",
+      "source": "match GTO 50"
+    },
+    "136": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "Porsche 911 GT3 RS",
+      "source": "price tier Vista Heights"
+    },
+    "137": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "Hyundai Veloster Turbo",
+      "source": "price tier Toreno"
+    },
+    "138": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2014 Ford Fiesta RS"
+    },
+    "139": {
+      "locationId": 300,
+      "locationName": "Creek Side",
+      "cslName": "Dodge Charger SuperBee",
+      "source": "Charger Creek Side"
+    },
+    "140": {
+      "locationId": 400,
+      "locationName": "Vista Heights",
+      "cslName": "Porsche Panamera Turbo",
+      "source": "price tier Vista Heights"
+    },
+    "141": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "1986 Ford RS200"
+    },
+    "142": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "2010 Mazda Mazdaspeed 3"
+    },
+    "143": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "1971 Falcon GT"
+    },
+    "144": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "1932 Ford Deuce Coupe"
+    },
+    "145": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "1970 Toyota Celica GT 2000"
+    },
+    "146": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "Ford Deuce Coupe Gold",
+      "source": "match Deuce 144"
+    },
+    "147": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "Ford Deuce Coupe Champion",
+      "source": "match Deuce 144"
+    },
+    "148": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "Porsche 911 RWB",
+      "source": "RWB Diamond Point"
+    },
+    "149": {
+      "locationId": 200,
+      "locationName": "Newburge",
+      "cslName": "Ford Taurus SHO",
+      "source": "price tier Newburge"
+    },
+    "150": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "RWB Ramintra 993R",
+      "source": "RWB Diamond Point"
+    },
+    "153": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "SignalR"
+    },
+    "155": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "Dodge Viper YOTS Black",
+      "source": "Viper Diamond Point"
+    },
+    "156": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "Dodge Viper YOTS Red",
+      "source": "Viper Diamond Point"
+    },
+    "158": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "RWB Stella",
+      "source": "RWB Diamond Point"
+    },
+    "159": {
+      "locationId": 100,
+      "locationName": "Toreno",
+      "cslName": "1985 Top Fool Dragster"
+    },
+    "160": {
+      "locationId": 500,
+      "locationName": "Diamond Point",
+      "cslName": "RWB Rotana 993",
+      "source": "RWB Diamond Point"
+    }
+  }
+}
