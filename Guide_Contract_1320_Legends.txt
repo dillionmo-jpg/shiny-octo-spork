@@ -1,0 +1,186 @@
+GUIDE CONTRACT — 1320 LEGENDS
+==================================================
+
+THE POSITION
+------------
+The Community Guide position is a voluntary educational role within the 1320
+Legends game. Guides are experienced players who create, maintain, and publish
+tutorials, how-to guides, FAQs, and strategy content to help new and existing
+players get the most out of their 1320 Legends experience.
+
+Guides do not receive complimentary memberships or premium cars as part of this
+role. Guides will be held to the same behavioral standards as all other players
+and are expected to be patient, helpful, knowledgeable, and respectful in all
+interactions.
+
+Abuse of your position as a Community Guide will not be tolerated. Abuse
+includes, but is not limited to:
+
+  - Publishing intentionally incorrect or misleading game information that
+    causes other players harm or disadvantage.
+  - Using your Guide status to promote personal gain, solicit in-game items,
+    or pressure other players.
+  - Disparaging other guides, moderators, or staff members in your published
+    content or public communications.
+  - Sharing unverified tips or strategies as though they are confirmed facts
+    without clearly labeling them as opinion or community theory.
+
+As a Community Guide, you serve as a trusted resource for 1320 Legends players
+of all skill levels. Your content directly shapes how new players learn the game
+and how experienced players refine their strategies. Act with patience,
+thoroughness, and a genuine desire to help.
+
+
+DUTIES
+------
+  - Write, publish, and maintain beginner and advanced player guides on the
+    official 1320 Legends community board and/or guide portal.
+  - Create FAQ content addressing common questions asked in the community.
+  - Update existing guides promptly following game updates, patches, or balance
+    changes that affect guide accuracy.
+  - Answer player questions in designated help channels and guide-related
+    threads in a courteous and thorough manner.
+  - Flag outdated or incorrect community guides to the 1320 Legends team for
+    review or removal.
+  - Communicate guide topic requests and community feedback to the 1320 Legends
+    team using the contact information provided in the guide tools portal.
+
+
+CONTENT STANDARDS
+-----------------
+All guide content must adhere to the following standards:
+
+  - Accuracy: All game mechanics, values, and strategies described in guides
+    must be tested and verified before publishing.
+  - Clarity: Guides should be written in clear, easy-to-understand language
+    accessible to players of all experience levels.
+  - Currency: Guides must be updated within a reasonable timeframe following
+    any game update that affects their accuracy. Outdated guides must be
+    clearly labeled as such pending revision.
+  - Originality: All guide content must be the guide author's own original
+    work. Content sourced from other guides or outside sources requires proper
+    attribution.
+  - Language: Content must be free of profanity, hate speech, or any language
+    that violates the 1320 Legends Terms of Service.
+
+The 1320 Legends team reserves the right to edit, remove, or archive any guide
+content that does not meet these standards. Repeated violations may result in
+removal from the Guide program.
+
+
+TOOLS
+-----
+  1. Guide portal — A web-based portal for submitting, editing, and managing
+     published guides. Guides are granted elevated community board permissions
+     to publish pinned tutorials and help articles.
+
+  2. Test environment access — Where available, Guides may be granted limited
+     access to test environments to verify game mechanics before publishing
+     guide updates following major patches.
+
+  3. Community help channels — Guides are given a designated Help channel
+     presence and may be listed in the in-game help directory as a trusted
+     resource for player questions.
+
+  4. Direct communication with the 1320 Legends team — use ATTN: Guide Team
+     in your subject line when emailing the team regarding guide matters.
+
+
+IN-GAME WEEKLY COMPENSATION & POINTS
+--------------------------------------
+In recognition of the time and effort Community Guides contribute to educating
+and supporting the 1320 Legends player community, active guides will receive
+the following weekly in-game compensation:
+
+  Weekly Cash Reward:
+    - Community Guide:       $35,000 in-game cash per week
+    - Senior Guide:          $70,000 in-game cash per week
+
+  Weekly Points Reward:
+    - Community Guide:       350 Guide Points per week
+    - Senior Guide:          700 Guide Points per week
+
+  Bonus Points:
+    - New guide published (approved):                +125 Guide Points
+    - Existing guide updated after a patch:          +75 Guide Points
+    - FAQ article published:                         +100 Guide Points
+    - Guide rated "Helpful" by 10+ players:          +50 Guide Points
+
+  Point Milestones & Perks:
+    Points accumulate over time and unlock the following rewards:
+
+    ┌──────────────────┬─────────────────────────────────────────────────┐
+    │  Points Earned   │  Reward                                         │
+    ├──────────────────┼─────────────────────────────────────────────────┤
+    │  1,750 pts       │  Exclusive Guide decal / livery                 │
+    │  4,000 pts       │  Rare community car unlock                      │
+    │  8,500 pts       │  Premium garage slot + bonus cash ($175,000)    │
+    │  20,000 pts      │  "Mentor" badge + Guide title in-game           │
+    └──────────────────┴─────────────────────────────────────────────────┘
+
+  Conditions for Receiving Weekly Compensation:
+    - Guide must have published or meaningfully updated at least one guide, or
+      actively participated in designated help channels during the week.
+    - Compensation is forfeited for any week in which content standards
+      violations are confirmed.
+    - Compensation is distributed every Monday for the prior week's activity.
+    - Guides under review or suspended from the program are not eligible to
+      receive compensation during that period.
+
+  Note: In-game compensation and points have no real-world monetary value and
+  are provided solely as recognition of guide service within the game.
+
+
+GUIDELINES FOR GUIDE ACTIVITY
+------------------------------
+We understand that creating thorough, accurate guides takes significant time and
+research. We appreciate the effort you put into making 1320 Legends more
+accessible and enjoyable for everyone. We ask that active guides contribute at
+least one new or updated guide per month, or maintain regular activity in
+community help channels to retain active status.
+
+If you anticipate a period of inactivity, please notify the team in advance. If
+at any time you no longer wish to serve as a Community Guide, please notify us
+and we will return your account to normal player status. Your published guide
+content will remain on the platform unless you specifically request its removal.
+
+
+LEGAL / OTHER ISSUES
+--------------------
+All guide content published under the 1320 Legends Guide program becomes the
+property of BricKHouse Software and 1320 Legends upon publication. Guides retain credit
+for their work but grant BricKHouse Software a non-exclusive, royalty-free license to use,
+reproduce, and distribute the content across any 1320 Legends platform,
+including but not limited to in-game help menus, the community website, and
+official social channels.
+
+Guides must ensure that all content is their original work and does not infringe
+on the intellectual property rights of any third party.
+
+All guides are required to provide a street mailing address so that a printed
+copy of this contract may be sent for signature and return. Guides who are under
+18 must have their parent or legal guardian sign the form as well.
+
+
+==================================================
+SIGNATURE PAGE
+==================================================
+
+Guide Name (Please Print):       ___________________________________
+
+Guide Signature:                 ___________________________________
+
+Date:                            _______________
+
+Mailing Address:                 ___________________________________
+
+                                 ___________________________________
+
+                                 ___________________________________
+
+Parent / Guardian Signature      ___________________________________
+(if under 18):
+
+==================================================
+Guide Contract — 1320 Legends
+==================================================

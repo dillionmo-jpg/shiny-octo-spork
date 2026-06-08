@@ -1,0 +1,65 @@
+{
+  "base": {
+    "piston": 88,
+    "rod": 86,
+    "valve": 87,
+    "headGasket": 84,
+    "engineBlock": 90,
+    "oil": 92,
+    "oilFilter": 89,
+    "radiator": 90,
+    "coolant": 91
+  },
+  "categories": {
+    "20": {
+      "oil": 96,
+      "oilFilter": 95,
+      "radiator": 96,
+      "coolant": 96
+    },
+    "39": {
+      "engineBlock": 96
+    },
+    "44": {
+      "piston": 94
+    },
+    "45": {
+      "valve": 94
+    },
+    "133": {
+      "engineBlock": 92
+    },
+    "135": {
+      "rod": 96
+    },
+    "136": {
+      "headGasket": 95
+    },
+    "153": {
+      "engineBlock": 98
+    },
+    "165": {
+      "oil": 98
+    },
+    "168": {
+      "oilFilter": 97
+    },
+    "169": {
+      "radiator": 97,
+      "coolant": 97
+    },
+    "182": {
+      "rod": 98
+    },
+    "190": {
+      "piston": 98
+    },
+    "192": {
+      "valve": 96
+    },
+    "193": {
+      "valve": 98
+    }
+  },
+  "partIds": {}
+}

@@ -1,0 +1,236 @@
+PRIVACY POLICY — 1320 LEGENDS
+==================================================
+Effective Date: June 1, 2026
+Last Updated:   June 1, 2026
+
+This Privacy Policy ("Policy") explains how BricKHouse Software ("we," "us," or "our")
+collects, uses, stores, and shares information when you access or play 1320
+Legends (the "Game") or visit any associated websites or platforms. By using
+the Game, you agree to the collection and use of information in accordance with
+this Policy.
+
+If you do not agree with this Policy, please do not access or use the Game.
+
+
+1. INFORMATION WE COLLECT
+--------------------------
+We may collect the following types of information:
+
+  1.1  Information You Provide Directly
+       - Account registration information (username, email address, password).
+       - Mailing address (required for community role holders — Moderators,
+         Guides, Journalists — for contract delivery purposes only).
+       - Communications you send to us, including support requests, feedback,
+         and email correspondence.
+       - Content you submit to the Game, including chat messages, forum posts,
+         guide content, and articles.
+
+  1.2  Information Collected Automatically
+       - Device information (device type, operating system, browser type).
+       - IP address and approximate geographic location (country/region level).
+       - Game activity data (cars owned, race results, in-game purchases,
+         session length, chat activity).
+       - Log data (access times, pages viewed, errors encountered).
+       - Cookies and similar tracking technologies (see Section 6).
+
+  1.3  Information from Third Parties
+       - If you access the Game through a third-party platform (e.g., a social
+         network or app store), we may receive certain profile information from
+         that platform, consistent with your privacy settings on that service.
+
+
+2. HOW WE USE YOUR INFORMATION
+-------------------------------
+We use the information we collect for the following purposes:
+
+  2.1  To provide, operate, and maintain the Game and its features.
+  2.2  To create and manage your account.
+  2.3  To process in-game transactions and deliver Virtual Items.
+  2.4  To distribute in-game weekly compensation and points to community role
+       holders (Moderators, Guides, Journalists).
+  2.5  To communicate with you, including responding to support requests,
+       sending game updates, and delivering policy notices.
+  2.6  To send a printed copy of community role contracts to Moderators,
+       Guides, and Journalists via postal mail (mailing address is used for
+       this purpose only and is not shared with third parties for marketing).
+  2.7  To enforce our Terms of Service and maintain community safety, including
+       investigating reports of misconduct, scamming, or policy violations.
+  2.8  To analyze usage patterns and improve the Game's features and
+       performance.
+  2.9  To detect, prevent, and respond to fraud, security incidents, and
+       technical issues.
+  2.10 To comply with applicable legal obligations.
+
+
+3. HOW WE SHARE YOUR INFORMATION
+----------------------------------
+We do not sell your personal information. We may share your information in the
+following limited circumstances:
+
+  3.1  Service Providers
+       We may share information with trusted third-party service providers who
+       assist us in operating the Game (e.g., hosting providers, analytics
+       services, email delivery services). These providers are contractually
+       required to keep your information confidential and use it only for the
+       purposes for which it was shared.
+
+  3.2  Community Role Administration
+       Usernames and role-related activity data for Moderators, Guides, and
+       Journalists may be visible to other community role holders and
+       administrators for operational purposes (e.g., moderator notes,
+       activity logs). Mailing addresses of role holders are accessible only
+       to authorized BricKHouse Software staff for contract delivery purposes.
+
+  3.3  Legal Requirements
+       We may disclose your information if required to do so by law, or if we
+       believe in good faith that such disclosure is necessary to: (a) comply
+       with a legal obligation; (b) protect and defend the rights or property
+       of BricKHouse Software; (c) prevent or investigate possible wrongdoing in
+       connection with the Game; or (d) protect the safety of players or the
+       public.
+
+  3.4  Business Transfers
+       In the event of a merger, acquisition, or sale of all or a portion of
+       our assets, your information may be transferred as part of that
+       transaction. We will notify you via a prominent notice on the Game or
+       by email before your information becomes subject to a different privacy
+       policy.
+
+  3.5  With Your Consent
+       We may share your information with third parties when you explicitly
+       consent to such sharing.
+
+
+4. DATA RETENTION
+-----------------
+We retain your personal information for as long as your account is active, or
+as long as necessary to fulfill the purposes described in this Policy. When you
+delete your account, we will delete or anonymize your personal information
+within a reasonable timeframe, except where we are required to retain it for
+legal or compliance purposes (e.g., records of moderation actions, transaction
+history).
+
+Chat messages and community posts may be retained for moderation and safety
+purposes even after account deletion.
+
+Mailing addresses provided by community role holders will be retained only for
+the duration of their role and will be securely deleted within 90 days of role
+termination.
+
+
+5. DATA SECURITY
+----------------
+We implement reasonable technical and organizational security measures to
+protect your personal information from unauthorized access, disclosure,
+alteration, or destruction. These measures include:
+
+  - Encrypted storage of passwords (hashed and salted).
+  - Secure HTTPS connections for all web-based interfaces.
+  - Access controls limiting who within BricKHouse Software can access personal data.
+  - Regular security reviews of our systems and practices.
+
+However, no method of transmission over the internet or electronic storage is
+100% secure. We cannot guarantee the absolute security of your information.
+If you suspect your account has been compromised, contact us immediately.
+
+
+6. COOKIES & TRACKING TECHNOLOGIES
+------------------------------------
+We use cookies and similar technologies (such as local storage and pixel tags)
+to:
+
+  - Keep you logged in to your account.
+  - Remember your preferences and game settings.
+  - Analyze Game traffic and usage patterns.
+  - Detect and prevent fraudulent or unauthorized activity.
+
+You may configure your browser to refuse cookies; however, doing so may affect
+certain features of the Game or associated web platforms. We do not currently
+respond to "Do Not Track" signals from browsers.
+
+
+7. CHILDREN'S PRIVACY
+----------------------
+The Game is intended for users aged 13 and older. We do not knowingly collect
+personal information from children under the age of 13. If we become aware that
+we have collected personal information from a child under 13 without verifiable
+parental consent, we will take immediate steps to delete that information.
+
+If you are a parent or guardian and believe your child under 13 has provided us
+with personal information, please contact us immediately at the email address
+listed in Section 11.
+
+For users aged 13–17, we encourage parents and guardians to review this Policy
+and to be involved in their child's use of the Game. Community role holders
+(Moderators, Guides, Journalists) who are under 18 must have their contracts
+co-signed by a parent or legal guardian.
+
+
+8. YOUR RIGHTS & CHOICES
+-------------------------
+Depending on your location, you may have certain rights regarding your personal
+information, including:
+
+  8.1  Access — You may request a copy of the personal information we hold
+       about you.
+
+  8.2  Correction — You may request that we correct inaccurate or incomplete
+       information.
+
+  8.3  Deletion — You may request that we delete your account and associated
+       personal data, subject to certain legal retention requirements.
+
+  8.4  Objection / Restriction — You may object to or request that we restrict
+       certain processing of your information.
+
+  8.5  Data Portability — Where applicable, you may request a copy of your
+       data in a machine-readable format.
+
+To exercise any of these rights, please contact us at the address provided in
+Section 11. We will respond to your request within a reasonable timeframe and
+in accordance with applicable law. We may need to verify your identity before
+processing your request.
+
+You may also:
+  - Update your account information at any time through your account settings.
+  - Opt out of non-essential communications by following the unsubscribe link
+    in any email we send you.
+
+
+9. THIRD-PARTY LINKS & PLATFORMS
+----------------------------------
+The Game or its associated websites may contain links to third-party websites,
+social media platforms, or services. This Policy does not apply to those third-
+party services. We encourage you to review the privacy policies of any third-
+party services you access through the Game.
+
+
+10. CHANGES TO THIS PRIVACY POLICY
+-------------------------------------
+We may update this Privacy Policy from time to time to reflect changes in our
+practices or applicable law. We will notify you of material changes by posting
+the updated Policy on the Game or its website, or by other reasonable means.
+The "Last Updated" date at the top of this Policy indicates when it was most
+recently revised.
+
+Your continued use of the Game after the effective date of any changes
+constitutes your acceptance of the updated Privacy Policy.
+
+
+11. CONTACT US
+--------------
+If you have any questions, concerns, or requests regarding this Privacy Policy
+or our data practices, please contact us at:
+
+  BricKHouse Software — 1320 Legends Team
+  Email:    [Insert contact email]
+  Website:  http://nitto1320legends.com
+  Subject Line for privacy matters: ATTN: Privacy
+
+We are committed to working with you to resolve any concerns about your
+privacy in a fair and timely manner.
+
+
+==================================================
+Privacy Policy — 1320 Legends | BricKHouse Software
+==================================================

@@ -1,0 +1,15 @@
+{
+  "name": "nitto-saddays-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "jpeg-js": "^0.4.4",
+    "pngjs": "^7.0.0",
+    "ssh2": "^1.17.0",
+    "stripe": "^22.2.0"
+  }
+}
